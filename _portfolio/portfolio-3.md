@@ -1,6 +1,6 @@
 ---
 title: "LAW-CHATBOT"
-excerpt: "Chatbot created to aid people in Sri Lanka with legal knowledge<br/><img src='/images/chatbot_interface.JPG'>"
+excerpt: "Chatbot created to aid people in Sri Lanka with legal knowledge<br/><img src='/images/chatbot_interface.png'>"
 collection: portfolio
 ---
 
