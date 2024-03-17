@@ -56,13 +56,13 @@ print("Hello World!)
 
 ***Lack of Skill***, it's very hard to find skilled enough people who can code in machine level coding while having good understanding about hardware. Labour cost could be higher so hiring people can be challenging in these scenarios.
 
-Due to these reasons in the modern developers tends to write programms in C++, Python, JS and many other higher level programming languages. Following document/graph shows the popularity based on number of repos pushed to the github over the years and you can see almost all of the popular languages are Higher and Assembley is in lower twenties.
+Due to these reasons, modern developers tends to write programms in C++, Python, JS and many other higher level programming languages. Following document/graph shows the popularity based on number of repos pushed to the github over the years and you can see almost all of the popular languages are Higher Languages while Assembley is in lower twenties.
 
-https://puudi.github.io/files/githun__popular_languages.pdf
+[Github language popularity by repos by https://innovationgraph.github.com/](https://puudi.github.io/files/github_popular_languages.pdf
+)
 
-https://innovationgraph.github.com/global-metrics/programming-languages#programming-languages-rankings
 
-## 
+## Is Python good enough?
 
 Microsoft windows mostly written in C and some other support parts in Assembly language which is a machine level code, Linux, Mac systems are also written in C for better performance while operating systems and embedded systems usually written in C when it comes to softwared like self driving for that has some of it's functionalities leveraging machine learning algorithm they use a bit higher level that C, for an example Tesla's FSD (Full Self Driving) software is built using C++ and some other parts in Python and Cuda. This allows developers to access hardware level control while easier higher level to developp while not compromising the performance of low level coding.
 
