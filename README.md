@@ -1,9 +1,9 @@
 # Welcome to the Pulin Disanayaka public portofolio!
 
-👋 Hello, and thank you for visiting! This repository is dedicated to showcasing my work as a passionate NLP (Natural Language Processing) Machine Learning Engineer. Here, you'll find a collection of projects, publications, code samples, and other resources related to the fascinating field of NLP and machine learning.
+👋 Hello, Welcome to the repo that I brag about myself and sometime very rarely I share my thoughts with you guys.
 
-Please feel free to use the tabs to go to each section and explaore
+Currently I'm working on a Computer Vision project at NUS where I try to generate game map content for games. This is the 2nd research project I'm working on after my undergrad thesis (check out the [abstract](https://science.cmb.ac.lk/icds/icds-2023/proceedings/) if you want).
 
-## About Me
+I have experience working as a ML Engineer at Dialog Axiata, a Telco company. During my time there, I focused on MLOps tasks and managed data pipelines and ML pipelines. One of my notable achievements was developing a segmentation system, which was later implemented company wide based on my blueprint.
 
-I am Pulin Disanayaka, a dedicated professional with a strong background in NLP and machine learning. My journey in the world of AI has led me to explore various applications of natural language processing, from sentiment analysis to language generation. I am excited to share my knowledge, experiences, and projects with the GitHub community and beyond.
+**Please click through the tabs to find more information, Thanks for the visit**
