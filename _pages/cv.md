@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Pulin Disanayaka"
+title: "Profile"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,32 +11,52 @@ redirect_from:
 
 # Education
 
-- University of Colombo Faculty of Science, B.Sc in Statistics and Computer Science, 2023
 - Coventry University - Coventry, B.Sc Data Science, 2024
+- University of Colombo Faculty of Science, B.Sc in Statistics and Computer Science, 2023
+
 
 # Work experience
 
-- May 2023 - Present: Machine Learning Engineer(DevOps), Dialog Axiata
+1. June 2024  - Present: **Research Assistant**, NUS School of Computing
+  
+    - Dynamic map generation for games based on the story and character.
+      - Implement a system that generates game maps dynamically, taking into account the narrative and the characteristics of the characters.
 
-  - Developing a model pipeline using CI/CD framework to segment customers based on their usage, behavioural, demographic features.
-  - Developing an Upsell package recommendation system to recommend customers with newer and better packages.
-  - Duties : Following CI/CD framework for development to ease the development, testing and maintainability.
-  - Developing inhouse propriatary modules to reduce the development time by Data Scientist
+2. May 2023 - June 2024: **Machine Learning Engineer(MLOps)**, Dialog Axiata
 
-- Nov 2022 - Mar 2023: Data Scientist(Intern), WSO2
-  - Worked in the Growth Hacking team at WSO2, did R&D work on [Choreo](https://wso2.com/choreo/).
-  - Duties : Developing a dashboard to analyze the behaviour of the Choreo users and identify any abnormal usage or behaviours.
+    - Developed a model pipeline using a CI/CD framework to segment customers based on their usage, behavioral, and demographic features.
+      - Created an Upsell package recommendation system to suggest newer and better packages to customers.
+      - Responsibilities: Following the CI/CD framework for development to streamline the development, testing, and maintenance processes.
+    - Developed in-house proprietary modules to reduce development time for Data Scientists.
+
+3. Nov 2022 - Mar 2023: **Data Scientist(Intern)**, WSO2
+    - Worked in the Growth Hacking team at WSO2, focusing on R&D work for [Choreo](https://wso2.com/choreo/).
+    - Developed a dashboard to analyze user behavior and identify abnormal usage patterns.
 
 # Skills
 
+- Torch
+  - PyTorch API
+  - Memory Optimization
+
 - Python
+  - Pandas
+  - Numpy
+  - PyTorch API
+- Rust
+  - Polars
 - AWS
   - SageMaker
+  - SagMaker Pipeline
   - CodeCommit(Git)
   - Cloud Watch
 - SnowFlake
   - Procedures (Python, JS)
   - DAG Creation
+- CI/CD
+  - Git
+  - Custom Python and Rust Modules
+  - Testing
 
 # Publications
 
