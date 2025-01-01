@@ -4,7 +4,7 @@ excerpt: "<img src='/images/chatbot_integration_1.png'>"
 collection: portfolio
 ---
 
-Vista Villa is a cutting-edge property website that seamlessly integrates AI-driven support to enhance user experience and streamline real estate interactions. The platform is powered by modern backend technologies like FastAPI for high-performance API management, Google Gemini Pro for advanced generative AI capabilities, Chromo DB for efficient and scalable data handling, and LangChain for creating dynamic, context-aware interactions.
+Vista Villa is a cutting-edge property website that seamlessly integrates AI-driven support to enhance user experience and streamline real estate interactions. The platform is powered by modern backend technologies like FastAPI for high-performance API management, Google Gemini Pro for advanced generative AI capabilities, Chromo DB for efficient and scalable data handling, and LangChain for creating dynamic, context-aware interactions. Check the following introduction video by Visa Softwares.
 
 [![Walkthrough](https://img.youtube.com/vi/O7lW0pnwDPY/0.jpg)](https://www.youtube.com/watch?v=O7lW0pnwDPY)
 
