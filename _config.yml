@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pulin/ Portofolio"
+title                    : "Pulin/ Portfolio"
 title_separator          : "-"
 name                     : &name "Pulin Disanayaka"
 description              : &description "Machine Learning Engineer keen on solving real world problems with NLP and Deep Learning"

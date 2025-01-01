@@ -1,4 +1,4 @@
-# Welcome to the Pulin Disanayaka public portofolio!
+# Welcome to the Pulin Disanayaka public portfolio!
 
 👋 Hello, Welcome to the repo that I brag about myself and sometime very rarely I share my thoughts with you guys.
 
